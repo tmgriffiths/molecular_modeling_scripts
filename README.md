@@ -6,7 +6,7 @@ I have been meaning to make a collection of molecular modelling scripts. They're
 
 ### cube2xyz
 
-Forked from [julenl](https://github.com/julenl/molecular_modeling_scripts), it takes gaussian cube data, like electron density, and given a plane will write out an data file in the format `x,y,z,measured_value`. Basic usage (available also by `cube2xyz-v0.1.py -h`) is as follows.
+Forked from [julenl](https://github.com/julenl/molecular_modeling_scripts), see also [this blog post](http://larrucea.eu/cube2xyz/). The script takes gaussian cube data, like electron density, and given a plane or coordinate will write out an data file in the format `x,y,z,measured_value`. Basic usage (available also by `cube2xyz-v0.1.py -h`) is as follows.
 
 ````
 usage: cube2xyz-v0.1.py [-h] -f FILE_NAME [-o OUT_FILE] [-pr PRINT_RANGE]
