@@ -1,11 +1,14 @@
 GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+==========================
+Version 3, 29 June 2007
+-----------------------
 
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
 
                             Preamble
+                            --------
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
@@ -69,6 +72,7 @@ patents cannot be used to render the program non-free.
 modification follow.
 
                        TERMS AND CONDITIONS
+                       --------------------
 
   0. Definitions.
 
@@ -621,6 +625,7 @@ copy of the Program in return for a fee.
                      END OF TERMS AND CONDITIONS
 
             How to Apply These Terms to Your New Programs
+            ---------------------------------------------
 
   If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
